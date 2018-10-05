@@ -25,3 +25,11 @@ print(mylist)
 mylist[0] = "whoah there dude"
 
 print(anotherlist)
+
+mylist.append('an ending item')
+print(anotherlist)
+
+
+a[0] = "what?"
+
+
