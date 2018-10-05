@@ -17,4 +17,11 @@ b = 15
 print(a)
 
 mylist = [1,2,3,4,5, "a string"]
+
+anotherlist = mylist
+
 print(mylist)
+
+mylist[0] = "whoah there dude"
+
+print(anotherlist)
